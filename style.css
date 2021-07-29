@@ -1,0 +1,148 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#firsth1{
+    font-weight: 700px;
+    font-size: 60px;
+    line-height: 130%
+}
+#skip{
+    color: orangered;
+}
+#firstsection{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 100px;
+} 
+#first-para{
+    padding-bottom: 60px;
+}
+.half-width img{
+    width: 85%;
+}
+.link-button{
+    color: white;
+    font-weight: 700;
+    border-top: 50px;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 18px 40px;
+    border-radius: 50px; 
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+}
+.about-me{
+    display: flex;
+}
+.half-width-two{
+    width: 50%;
+    padding-right: 200px;
+    padding-top: 90px;
+    padding-left: 200px;
+}
+.half-width-two img{
+    height: 90%;
+    width: 70%;
+    padding-top: 50px;
+}
+.half-width-two h1{
+    font-weight: 700;
+}
+.about-me{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+#second-para{
+    padding-bottom: 60px;
+
+}
+#my-recipies{
+    text-align: center;
+    padding-bottom: 40px;
+}
+#my-recipies h1 {
+    font-weight: bolder;
+    padding-top: 60px;
+}
+.recipie-section{
+    display: flex;
+    padding-bottom: 150px;
+}
+.recipie-title{
+    box-shadow: 1px 1px 10px black;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 300px;
+    padding-bottom: 150px;
+    border-radius: 10px;
+}
+.recipie-title img{
+    height: 75%;
+    width: 90%;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.recipie-title h1{
+    padding-left: 20px;
+    font-weight: 700;
+}
+.recipie{
+    padding-left: 20px;
+}
+.followers{
+    display: flex;
+    box-shadow: 1px 1px 10px black;
+    width: 80%;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 50px;
+}
+.numbers{
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 100px;
+    padding-right: 80px;
+    padding-top: 50px;
+}
+.followers-section{
+    padding-bottom: 100px;
+}
+.footer-section{
+    background-color: black;
+    border: 5px solid rgb(97, 2, 97);
+}
+.footer{
+ padding-top: 15px;
+ padding-bottom: 60px;
+}
+.footer{
+    text-align: center;
+}
+.food{
+    color: orangered;
+}
+.network{
+    color: gray;
+}
+.footer p{
+    color: white;
+}
+.bonus-section-banner{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 50px;
+}
+.banner-element{
+ margin-right: 5%;
+ margin-left: 5%;
+}
+.bonus-section-follow-us{
+    padding-bottom: 100px;
+}
